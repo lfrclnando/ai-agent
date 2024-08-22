@@ -1,6 +1,6 @@
-<figure style="display:flex; gap:6px">
-  <img src="@gitHub/Cover.png" style="width:800px; height:500px">
-  <img src="@gitHub/Mobile.png" style="width:260px">
+<figure style="display:flex; flex-direction:row; flex-wrap: nowrap; gap:8px">
+  <img src="@gitHub/Cover.png" style="width:50%; height:30%">
+  <img src="@gitHub/Mobile.png" style="width:20%; height:10%"">
 </figure>
 
 # NOME DO PROJETO | NAME THIS PROJECT | NOMBRE DEL PROYECTO
